@@ -10,6 +10,7 @@ module.exports = {
     'i18n-json/identical-keys': [2, {
       filePath: {
         'login.json': path.resolve('./translations/en-US/login.json'),
+        'z-search-results.json': path.resolve('./translations/en-US/z-search-results.json'),
         'search-results.json': path.resolve('./translations/en-US/search-results.json'),
         'todos.json': path.resolve('./translations/en-US/todos.json')
       }
